@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Dataset
+data/MMOTU/
+data/MMOTU.zip
+
+# Trained model
+models/*.pth
+
+# Generated visualization
+prediction_result.png
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
